@@ -1,0 +1,29 @@
+h1{
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: outset;
+    border-width: 5px;
+    border-color: orange;
+    border-radius: 10px;
+    padding: 5px;
+}
+body{
+    background-color:black;
+    text-align: center;
+    
+}
+.button{
+    background-color: orange;
+    color: white;
+    position: relative;
+    top: 300px;
+    font-size: 50px;    
+    
+}
+#github{
+    position: relative;
+    top: 825px;
+    right: 90px;
+
+}
